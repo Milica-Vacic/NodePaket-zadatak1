@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Milica-Vacic/NodePackage-NRT_11_19.zadatak1.git"
+    "url": "git+https://github.com/Milica-Vacic/NodePaket-zadatak1.git"
   },
   "author": "Milica Vacic",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Milica-Vacic/NodePackage-NRT_11_19.zadatak1/issues"
+    "url": "https://github.com/Milica-Vacic/NodePaket-zadatak1/issues"
   },
-  "homepage": "https://github.com/Milica-Vacic/NodePackage-NRT_11_19.zadatak1#readme"
+  "homepage": "https://github.com/Milica-Vacic/NodePaket-zadatak1#readme"
 }
